@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Muhammad Bintang Naufal! 
 
-![Total Commits](https://github-readme-stats.vercel.app/api?username=bintangnaufall&show_icons=true&&theme=radical&count_private=true&hide=prs)
+<!---![Total Commits](https://github-readme-stats.vercel.app/api?username=bintangnaufall&show_icons=true&&theme=radical&count_private=true&hide=prs)---->
 
 ### 💻Tech Stack 
 
